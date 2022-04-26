@@ -1,2 +1,7 @@
 hoge
 hogehoge
+<<<<<<< HEAD
+hogehogehoge
+=======
+this is test
+>>>>>>> 5341513... pull request の確認
